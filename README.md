@@ -1,0 +1,14 @@
+# Skerries Landing Page
+Website about the town of Skerries - Dublin/IE
+
+[View Live](https://gabrielamcarvalho.github.io/skerries/)
+
+### Tools
+
+:grey_exclamation: Icons: [Fontawesome](https://fontawesome.com/)
+
+:partly_sunny: Template : [Creative Tim](https://www.creative-tim.com/templates/free)
+
+:hammer: Animation  : [AOS](https://michalsnik.github.io/aos/)
+
+*This project is part of the [Zero to Master couse](https://academy.zerotomastery.io/p/javascript-projects). Project 5 of 20.*
