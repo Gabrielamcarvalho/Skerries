@@ -13,4 +13,4 @@ Website about the town of Skerries - Dublin/IE
 
 :smile: Random user generator [Random user](https://randomuser.me/)
 
-*This project is part of the [Zero to Master couse](https://academy.zerotomastery.io/p/javascript-projects). Project 8 of 20.*
+*This project is part of the [Zero to Master couse](https://academy.zerotomastery.io/p/javascript-projects). Project 6 of 20.*
